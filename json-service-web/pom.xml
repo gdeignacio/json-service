@@ -21,11 +21,11 @@
 
     <dependencies>
         <!-- JSON Service -->
-        <dependency>
+        <!--dependency>
             <groupId>org.stefaniuk.json.service</groupId>
             <artifactId>json-service</artifactId>
             <version>${json.service.version}</version>
-        </dependency>
+        </dependency-->
     </dependencies>
 
     <build>
